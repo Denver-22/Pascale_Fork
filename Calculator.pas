@@ -3,7 +3,7 @@
 var
   x1, x2, o: real;
   ch: char;
-
+# Комментарий к коду
 begin
   write(' Введите арифм. действие: ');
   read(ch);
